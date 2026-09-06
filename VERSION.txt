@@ -1,0 +1,3 @@
+Excel Auto Grader Final v6 Batch
+Rubric: PE2 Version A v6
+Features: multi-student batch grading, template-aware partial credit, two-pass verification
